@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "we fell in love in october",
+  "base_artist": "girl in red",
+  "createdAt": "2026-02-21T13:00:12.087409Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "we fell in love in october",
+      "artist": "girl in red",
+      "has_synced": true,
+      "path": "select/01_we_fell_in_love_in_october_girl_in_red.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "we fell in love in october",
+      "artist": "girl in red",
+      "has_synced": true,
+      "path": "select/02_we_fell_in_love_in_october_girl_in_red.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "we fell in love in october",
+      "artist": "girl in red",
+      "has_synced": true,
+      "path": "select/03_we_fell_in_love_in_october_girl_in_red.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "We fell in love in october",
+      "artist": "fenekot",
+      "has_synced": true,
+      "path": "select/04_We_fell_in_love_in_october_fenekot.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "we fell in love in october",
+      "artist": "girl in red",
+      "has_synced": true,
+      "path": "select/05_we_fell_in_love_in_october_girl_in_red.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "girl in red - we fell in love in october (lyrics)",
+      "artist": "TikTokTunes",
+      "has_synced": true,
+      "path": "select/06_girl_in_red_-_we_fell_in_love_in_october_(lyrics)_TikTokTunes.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "we fell in love in october",
+      "artist": "girl in red",
+      "has_synced": true,
+      "path": "select/07_we_fell_in_love_in_october_girl_in_red.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "we fell in love in october",
+      "artist": "Video • girl in red",
+      "has_synced": true,
+      "path": "select/08_we_fell_in_love_in_october_Video_•_girl_in_red.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "we fell in love in october",
+      "artist": "girl in red",
+      "has_synced": true,
+      "path": "select/09_we_fell_in_love_in_october_girl_in_red.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "we fell in love in october",
+      "artist": "girl in red",
+      "has_synced": true,
+      "path": "select/10_we_fell_in_love_in_october_girl_in_red.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "we fell in love in october",
+      "artist": "girl in red",
+      "has_synced": true,
+      "path": "select/11_we_fell_in_love_in_october_girl_in_red.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "we fell in love in october",
+      "artist": "Video • girl in red",
+      "has_synced": true,
+      "path": "select/12_we_fell_in_love_in_october_Video_•_girl_in_red.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "we fell in love in october",
+      "artist": "girl in red",
+      "has_synced": false,
+      "path": "select/pl_01_we_fell_in_love_in_october_girl_in_red.txt"
+    }
+  ]
+}
